@@ -1,1 +1,12 @@
 # 11-Report_Sales_ExcelFiles_withMultipleSheets
+
+
+
+=Data Source : Multiple Files Excel With Import Mode
+
+=Create Fuction to deal with Multiple Excel Files With multiple Sheet in each File 
+To save time of Repeating Steps of transformation 
+
+= Apply ETL , And Create Visualization 
+
+= Apply PieChart , Table, Colum Chart ,Line Chart ,Cards
